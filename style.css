@@ -1,0 +1,45 @@
+*{
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.title{
+    background-color: #FEFAF6;
+    color: #102C57;
+    height: 100vh;
+}
+.nfont{
+    color: white;
+}
+.robo{
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.links{
+color: #0A6847;
+}
+.btn{
+    color: #0A6847;
+    background-color: #F3CA52;
+}
+.title-text{
+font-size: 20;
+}
+.emph{
+    color: #102C57;
+}
+.round{
+    border-radius: 50%;
+}
+.body{
+    background-color: #EADBC8;
+    color: #102C57;
+}
+.footer{
+    background-color: #DAC0A3;
+    color: #102C57;
+}
+.nav-link{
+    color: #102C57;
+}
